@@ -1,0 +1,20 @@
+# Ignore IDE and system files
+.cache/
+.eclipse/
+.gitconfig
+.p2/
+.redhat/
+.vscode/
+AppData/
+Contacts/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+OneDrive/
+Saved Games/
+Searches/
+eclipse-workspace/
+eclipse/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
